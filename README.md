@@ -1,2 +1,15 @@
-# DSA-Practice
-A structured topic-wise DSA practice repository with clean code, optimized solutions, and detailed problem approaches.
+# DSA Practice 🚀
+
+## Topics Covered:
+- Arrays
+- Strings
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+- Hashing
+- Heaps
+
+## Goal:
+Solve problems topic-wise and improve problem-solving skills.
